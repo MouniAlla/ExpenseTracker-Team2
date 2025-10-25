@@ -1,0 +1,6 @@
+id,date,amount,category,description
+E1001,2025-10-01,25.50,Food,Lunch
+E1002,2025-10-03,50.00,Transport,Gas refill
+E1003,2025-10-10,120.00,Rent,Monthly rent
+E1004,2025-10-15,15.75,Food,Snacks
+E1005,2025-10-20,80.00,Shopping,New shoes
