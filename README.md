@@ -30,7 +30,7 @@ cmake -S . -B build -G "Visual Studio 17 2022"
 cmake --build build --config Release
 
 # Run application
-.\build\Release\expense_tracker.exe
+.\build\Debug\expense_tracker_v2.exe
 ```
 
 ## Usage
